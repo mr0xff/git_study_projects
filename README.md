@@ -6,3 +6,7 @@ Start my simple project git
 # For more information send me back a message!
 
 Learn angular for web front development
+
+# Web Full Stack dev 
+
+hi! I'm noob!
